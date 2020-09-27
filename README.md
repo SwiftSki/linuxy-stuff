@@ -1,2 +1,2 @@
 # linuxy-stuff
-<centered>testin' stuff</centered>
+<center>testin' stuff</center>
